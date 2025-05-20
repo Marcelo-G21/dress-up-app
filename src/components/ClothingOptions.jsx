@@ -1,5 +1,6 @@
 import top1 from '../assets/clothes/top1.png';
 import top2 from '../assets/clothes/top2.png';
+import top3 from '../assets/clothes/top3.png';
 
 import bottom1 from '../assets/clothes/bottom1.png';
 import bottom2 from '../assets/clothes/bottom2.png';
@@ -9,12 +10,13 @@ import shoes2 from '../assets/clothes/shoes2.png';
 
 import outerwear1 from '../assets/clothes/outerwear1.png';
 import outerwear2 from '../assets/clothes/outerwear2.png';
+import outerwear3 from '../assets/clothes/outerwear3.png';
 
 const clothingOptions = {
-  top: [top1, top2],
+  top: [top1, top2, top3],
   bottom: [bottom1, bottom2],
   shoes: [shoes1, shoes2],
-  outerwear: [outerwear1, outerwear2]
+  outerwear: [outerwear1, outerwear2, outerwear3]
 };
 
 
